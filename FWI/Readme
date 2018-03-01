@@ -10,5 +10,15 @@
 
   Notes:  
 
+# Elastic_FWI: Elastic full waveform inversion
+  A code of the conventional FWI using the L2 norm of the data differnce as the misfit function and the problem is solved using the adjoint-state method, optimzation method is set as CG, L-BFGS and so on.
+  Reference:  
+  
+  Input parameters:  
+ 
+  Output parameters:  
+
+  Notes:  
+
 #Contributor:
 	Cui Chao: 18353248681@163.com
